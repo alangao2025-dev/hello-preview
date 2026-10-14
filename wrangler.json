@@ -1,0 +1,11 @@
+{
+  "name": "hello-preview",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    { "pattern": "hello-preview.accrepo.com", "custom_domain": true }
+  ],
+  "workers_dev": true
+}
